@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCC xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <testCoordinator>
+      <FirstName>Fred</FirstName>
+      <LastName>Angstenberger</LastName>
+      <Email>fangstenberger@aakronline.com</Email>
+      <Phone>716-542-5483</Phone>
+      <Fax />
+      <Address>8 Indianola Avenue Akron, NY 14001</Address>
+   </testCoordinator>
+   <lstThirdPartyTesting>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>XRF Testing</ThirdPartyTestName>
+         <TestDate>2018-01-15T00:00:00</TestDate>
+         <ExpirationDate>2019-01-15T00:00:00</ExpirationDate>
+         <Test_Report_File>55075 - 10817 Green PO 42859.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead in substrates</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>Thermo Niton XL3t300</ThirdPartyAdd1>
+         <ThirdPartyAdd2>8 Indianola Avenue</ThirdPartyAdd2>
+         <city>Akron</city>
+         <state>NY</state>
+         <Country>United States</Country>
+         <zip>14001</zip>
+         <Email />
+         <Phone />
+         <Fax />
+         <Color>124</Color>
+         <ColorName>Green/Yell</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>XRF Testing</ThirdPartyTestName>
+         <TestDate>2018-01-15T00:00:00</TestDate>
+         <ExpirationDate>2019-01-15T00:00:00</ExpirationDate>
+         <Test_Report_File>55075 - 10817 Orange PO 42859.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead in substrates</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>Thermo Niton XL3t300</ThirdPartyAdd1>
+         <ThirdPartyAdd2>8 Indianola Avenue</ThirdPartyAdd2>
+         <city>Akron</city>
+         <state>NY</state>
+         <Country>United States</Country>
+         <zip>14001</zip>
+         <Email />
+         <Phone />
+         <Fax />
+         <Color>158</Color>
+         <ColorName>Orange/Yel</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>XRF Testing</ThirdPartyTestName>
+         <TestDate>2018-01-15T00:00:00</TestDate>
+         <ExpirationDate>2019-01-15T00:00:00</ExpirationDate>
+         <Test_Report_File>55075 - 10817 Blue PO 42859.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead in substrates</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>Thermo Niton XL3t300</ThirdPartyAdd1>
+         <ThirdPartyAdd2>8 Indianola Avenue</ThirdPartyAdd2>
+         <city>Akron</city>
+         <state>NY</state>
+         <Country>United States</Country>
+         <zip>14001</zip>
+         <Email />
+         <Phone />
+         <Fax />
+         <Color>159</Color>
+         <ColorName>Blue/White</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>XRF Testing</ThirdPartyTestName>
+         <TestDate>2018-01-15T00:00:00</TestDate>
+         <ExpirationDate>2019-01-15T00:00:00</ExpirationDate>
+         <Test_Report_File>55075 - 10817 Purple PO 42859.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead in substrates</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>Thermo Niton XL3t300</ThirdPartyAdd1>
+         <ThirdPartyAdd2>8 Indianola Avenue</ThirdPartyAdd2>
+         <city>Akron</city>
+         <state>NY</state>
+         <Country>United States</Country>
+         <zip>14001</zip>
+         <Email />
+         <Phone />
+         <Fax />
+         <Color>160</Color>
+         <ColorName>Purple/Pin</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>XRF Testing</ThirdPartyTestName>
+         <TestDate>2018-01-15T00:00:00</TestDate>
+         <ExpirationDate>2019-01-15T00:00:00</ExpirationDate>
+         <Test_Report_File>55075 - 10817 Red PO 42859.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead in substrates</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>Thermo Niton XL3t300</ThirdPartyAdd1>
+         <ThirdPartyAdd2>8 Indianola Avenue</ThirdPartyAdd2>
+         <city>Akron</city>
+         <state>NY</state>
+         <Country>United States</Country>
+         <zip>14001</zip>
+         <Email />
+         <Phone />
+         <Fax />
+         <Color>181</Color>
+         <ColorName>Red/Orange</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-07-09T08:45:06</TestDate>
+         <ExpirationDate>2019-07-09T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-003872 Mood Guy Pen &amp; Stylus-CPSIA-PROP65-CPSC 16 CFR 1307-SOR 2016 193-16 CFR 1500.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead and Phthalates in Substrates (CPSIA)</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>124</Color>
+         <ColorName>Green/Yell</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-07-09T08:45:06</TestDate>
+         <ExpirationDate>2019-07-09T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-003872 Mood Guy Pen &amp; Stylus-CPSIA-PROP65-CPSC 16 CFR 1307-SOR 2016 193-16 CFR 1500.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead and Phthalates in Substrates (CPSIA)</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>158</Color>
+         <ColorName>Orange/Yel</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-07-09T08:45:06</TestDate>
+         <ExpirationDate>2019-07-09T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-003872 Mood Guy Pen &amp; Stylus-CPSIA-PROP65-CPSC 16 CFR 1307-SOR 2016 193-16 CFR 1500.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead and Phthalates in Substrates (CPSIA)</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>159</Color>
+         <ColorName>Blue/White</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-07-09T08:45:06</TestDate>
+         <ExpirationDate>2019-07-09T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-003872 Mood Guy Pen &amp; Stylus-CPSIA-PROP65-CPSC 16 CFR 1307-SOR 2016 193-16 CFR 1500.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead and Phthalates in Substrates (CPSIA)</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>160</Color>
+         <ColorName>Purple/Pin</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-07-09T08:45:06</TestDate>
+         <ExpirationDate>2019-07-09T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-003872 Mood Guy Pen &amp; Stylus-CPSIA-PROP65-CPSC 16 CFR 1307-SOR 2016 193-16 CFR 1500.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead and Phthalates in Substrates (CPSIA)</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>181</Color>
+         <ColorName>Red/Orange</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-07-09T08:45:06</TestDate>
+         <ExpirationDate>2019-07-09T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-003872 Mood Guy Pen &amp; Stylus-CPSIA-PROP65-CPSC 16 CFR 1307-SOR 2016 193-16 CFR 1500.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>PROP65</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>124</Color>
+         <ColorName>Green/Yell</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-07-09T08:45:06</TestDate>
+         <ExpirationDate>2019-07-09T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-003872 Mood Guy Pen &amp; Stylus-CPSIA-PROP65-CPSC 16 CFR 1307-SOR 2016 193-16 CFR 1500.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>PROP65</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>158</Color>
+         <ColorName>Orange/Yel</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-07-09T08:45:06</TestDate>
+         <ExpirationDate>2019-07-09T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-003872 Mood Guy Pen &amp; Stylus-CPSIA-PROP65-CPSC 16 CFR 1307-SOR 2016 193-16 CFR 1500.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>PROP65</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>159</Color>
+         <ColorName>Blue/White</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-07-09T08:45:06</TestDate>
+         <ExpirationDate>2019-07-09T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-003872 Mood Guy Pen &amp; Stylus-CPSIA-PROP65-CPSC 16 CFR 1307-SOR 2016 193-16 CFR 1500.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>PROP65</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>160</Color>
+         <ColorName>Purple/Pin</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-07-09T08:45:06</TestDate>
+         <ExpirationDate>2019-07-09T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-003872 Mood Guy Pen &amp; Stylus-CPSIA-PROP65-CPSC 16 CFR 1307-SOR 2016 193-16 CFR 1500.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>PROP65</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>181</Color>
+         <ColorName>Red/Orange</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-07-09T08:45:06</TestDate>
+         <ExpirationDate>2019-07-09T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-003872 Mood Guy Pen &amp; Stylus-CPSIA-PROP65-CPSC 16 CFR 1307-SOR 2016 193-16 CFR 1500.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>16 CFR 1500 Mechanical Hazards</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>124</Color>
+         <ColorName>Green/Yell</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-07-09T08:45:06</TestDate>
+         <ExpirationDate>2019-07-09T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-003872 Mood Guy Pen &amp; Stylus-CPSIA-PROP65-CPSC 16 CFR 1307-SOR 2016 193-16 CFR 1500.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>16 CFR 1500 Mechanical Hazards</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>158</Color>
+         <ColorName>Orange/Yel</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-07-09T08:45:06</TestDate>
+         <ExpirationDate>2019-07-09T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-003872 Mood Guy Pen &amp; Stylus-CPSIA-PROP65-CPSC 16 CFR 1307-SOR 2016 193-16 CFR 1500.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>16 CFR 1500 Mechanical Hazards</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>159</Color>
+         <ColorName>Blue/White</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-07-09T08:45:06</TestDate>
+         <ExpirationDate>2019-07-09T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-003872 Mood Guy Pen &amp; Stylus-CPSIA-PROP65-CPSC 16 CFR 1307-SOR 2016 193-16 CFR 1500.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>16 CFR 1500 Mechanical Hazards</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>160</Color>
+         <ColorName>Purple/Pin</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-07-09T08:45:06</TestDate>
+         <ExpirationDate>2019-07-09T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-003872 Mood Guy Pen &amp; Stylus-CPSIA-PROP65-CPSC 16 CFR 1307-SOR 2016 193-16 CFR 1500.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>16 CFR 1500 Mechanical Hazards</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>181</Color>
+         <ColorName>Red/Orange</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-08-30T00:00:00</TestDate>
+         <ExpirationDate>2019-08-30T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-006198_RPT Inks_Surface Coatings.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead &amp; Phthalates in Surface Coatings</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>124</Color>
+         <ColorName>Green/Yell</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-08-30T00:00:00</TestDate>
+         <ExpirationDate>2019-08-30T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-006198_RPT Inks_Surface Coatings.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead &amp; Phthalates in Surface Coatings</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>158</Color>
+         <ColorName>Orange/Yel</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-08-30T00:00:00</TestDate>
+         <ExpirationDate>2019-08-30T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-006198_RPT Inks_Surface Coatings.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead &amp; Phthalates in Surface Coatings</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>159</Color>
+         <ColorName>Blue/White</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-08-30T00:00:00</TestDate>
+         <ExpirationDate>2019-08-30T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-006198_RPT Inks_Surface Coatings.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead &amp; Phthalates in Surface Coatings</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>160</Color>
+         <ColorName>Purple/Pin</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-08-30T00:00:00</TestDate>
+         <ExpirationDate>2019-08-30T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-006198_RPT Inks_Surface Coatings.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead &amp; Phthalates in Surface Coatings</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>181</Color>
+         <ColorName>Red/Orange</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-08-30T00:00:00</TestDate>
+         <ExpirationDate>2019-08-30T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-006198_RPT Inks_Surface Coatings.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead &amp; Phthalates in Surface coatings Canada</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>124</Color>
+         <ColorName>Green/Yell</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-08-30T00:00:00</TestDate>
+         <ExpirationDate>2019-08-30T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-006198_RPT Inks_Surface Coatings.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead &amp; Phthalates in Surface coatings Canada</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>158</Color>
+         <ColorName>Orange/Yel</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-08-30T00:00:00</TestDate>
+         <ExpirationDate>2019-08-30T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-006198_RPT Inks_Surface Coatings.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead &amp; Phthalates in Surface coatings Canada</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>159</Color>
+         <ColorName>Blue/White</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-08-30T00:00:00</TestDate>
+         <ExpirationDate>2019-08-30T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-006198_RPT Inks_Surface Coatings.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead &amp; Phthalates in Surface coatings Canada</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>160</Color>
+         <ColorName>Purple/Pin</ColorName>
+      </ThirdPartyTestInfo>
+      <ThirdPartyTestInfo>
+         <ThirdPartyTestName>QIMA, LLC ( HK )</ThirdPartyTestName>
+         <TestDate>2018-08-30T00:00:00</TestDate>
+         <ExpirationDate>2019-08-30T00:00:00</ExpirationDate>
+         <Test_Report_File>18H-006198_RPT Inks_Surface Coatings.pdf</Test_Report_File>
+         <ThirdPartyTestDescription>Lead &amp; Phthalates in Surface coatings Canada</ThirdPartyTestDescription>
+         <ThirdPartyAdd1>14/F, Yoo Hoo Tower, 38-42 Kwai Fung Crescent</ThirdPartyAdd1>
+         <ThirdPartyAdd2 />
+         <city>Kwai Chung NT</city>
+         <state />
+         <Country>Hong Kong</Country>
+         <zip />
+         <Email />
+         <Phone>852-3185 800</Phone>
+         <Fax>852-3572 0374</Fax>
+         <Color>181</Color>
+         <ColorName>Red/Orange</ColorName>
+      </ThirdPartyTestInfo>
+   </lstThirdPartyTesting>
+   <CPSCSafetyRegulations>
+      <TestDescriptionInfo>
+         <Test_Description>Lead in substrates</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead in substrates</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead in substrates</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead in substrates</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead in substrates</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead and Phthalates in Substrates (CPSIA)</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead and Phthalates in Substrates (CPSIA)</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead and Phthalates in Substrates (CPSIA)</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead and Phthalates in Substrates (CPSIA)</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead and Phthalates in Substrates (CPSIA)</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>PROP65</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>PROP65</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>PROP65</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>PROP65</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>PROP65</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>16 CFR 1500 Mechanical Hazards</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>16 CFR 1500 Mechanical Hazards</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>16 CFR 1500 Mechanical Hazards</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>16 CFR 1500 Mechanical Hazards</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>16 CFR 1500 Mechanical Hazards</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead &amp; Phthalates in Surface Coatings</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead &amp; Phthalates in Surface Coatings</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead &amp; Phthalates in Surface Coatings</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead &amp; Phthalates in Surface Coatings</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead &amp; Phthalates in Surface Coatings</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead &amp; Phthalates in Surface coatings Canada</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead &amp; Phthalates in Surface coatings Canada</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead &amp; Phthalates in Surface coatings Canada</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead &amp; Phthalates in Surface coatings Canada</Test_Description>
+      </TestDescriptionInfo>
+      <TestDescriptionInfo>
+         <Test_Description>Lead &amp; Phthalates in Surface coatings Canada</Test_Description>
+      </TestDescriptionInfo>
+   </CPSCSafetyRegulations>
+   <ItemNumber>55075</ItemNumber>
+   <MoldNumber>10817</MoldNumber>
+   <ItemDescription>MOOD GUY PEN</ItemDescription>
+   <ManufacturerImprinter>AAkron Rule Corp. 8 Indianola Avenue Akron, NY 14001</ManufacturerImprinter>
+   <DateManufactured>January 2019- December 2019</DateManufactured>
+   <PlaceManufactured>Akron, NY/Bakewell, TN</PlaceManufactured>
+</GCC>
