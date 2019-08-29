@@ -1,0 +1,49 @@
+.paginate
+ {
+	font-family:Arial, verdana, sans-serif;
+	padding:3px;
+    	margin: 3px;
+	       
+ }
+
+.paginate .disabled
+{
+	padding:4px;
+        margin:3px;
+        font-size: 12px;
+	border:1px solid #eee;
+        color:#DDD;
+	
+}
+.paginate .current
+{
+  	margin: 3px;
+    	padding: 4px;
+	background-color: white ;
+        font-size: 12px;
+        color:black;
+}
+.paginate a:hover
+{	
+	border:solid 1px #99CCFF;
+        background-color: #99CCFF ;
+        color:white;
+}
+.paginate a
+{
+	padding:4px;
+	margin:3px;
+        font-size: 10px;
+        font-weight: bold;
+	border:1px solid #999;
+    	text-decoration:none;
+    	color: white;
+        background-color: black ;
+}
+h1
+{
+font-family:TimesNewRoman;
+font-size:30px;
+color:maroon;
+font-weight:bold;
+}
